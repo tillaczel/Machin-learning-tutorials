@@ -1,1 +1,1 @@
-# Machin-learning-tutorials
+# Machin-learning-workshop
